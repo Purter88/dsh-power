@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Power Controls",
+    "description": "Adds a power and restart row to Settings → General so dsh can be stopped or relaunched without ending its process by hand."
+  }
+}
